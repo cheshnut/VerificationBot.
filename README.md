@@ -14,3 +14,4 @@ A verification bot that i made for my discord. https://discord.gg/qFh7pcMm
 - You can change the verifychannel var to your own channel id. 
 - Run the python file to start the bot. 
 
+If you have any problem please DM me on twitter (You can find my twitter in my profile)
